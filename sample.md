@@ -215,4 +215,11 @@
 
 ---
 
-# Thank you!
+
+### <center>このスライドのMarpのセット
+  
+<center><i class="far fa-arrow-alt-circle-right"></i> <a href="https://github.com/kurudrive/marp-template" target="_blank">https://github.com/kurudrive/marp-template</a></center>
+
+---
+
+# <center>Thank you!
