@@ -1,0 +1,43 @@
+.slide_wrapper .slide {
+	position: relative;
+ }
+ .slide_wrapper .slide:before {
+	 position: absolute;
+    background-image: url(../images/logo-top-right.svg);
+ 		background-repeat: no-repeat;
+ 		background-size: 170px;
+		content:"";
+		width:170px;
+		height:100px;
+		top:30px;
+		right:30px;
+  }
+.slide_wrapper .slide h1 .title-slide { font-size:72px;color:#000; }
+.slide_wrapper .slide h1 { font-size:64px !important;color:#000 !important; }
+.slide_wrapper .slide h2 {
+	font-size:56px !important;
+	border-bottom:1px solid #ccc !important;
+	margin-bottom:50px;
+}
+.slide_wrapper .slide h2::first-letter {
+	color:#337ab7;
+}
+.slide_wrapper .slide h3 { font-size:48px !important;margin-bottom:40px;margin-top:40px; }
+.slide_wrapper .slide h4 { font-size:42px !important; }
+.slide_wrapper .slide p,
+.slide_wrapper .slide li{ font-size:38px; }
+.slide_wrapper .slide ul { margin-bottom:50px;}
+
+p i { position:relative;top:2px;margin-right:0.4em; }
+
+.slide_wrapper .slide .waku img { border:1px solid #ccc !important; }
+/* .slide_wrapper .slide p .center { text-align: center !important;margin-left;margin-right; } */
+.slide_wrapper .slide .txt-tsunagi { font-size:50px; }
+
+.color_key { color:#337ab7 !important; }
+.color_gray { color:#e5e5e5 !important; }
+
+.arrow-bottom { text-align: center; color:#337ab7; }
+.arrow-bottom i {font-size:80px;}
+
+.caption { font-size:0.8em;}

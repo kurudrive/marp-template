@@ -1,0 +1,7 @@
+.slide_wrapper .slide:before {
+	background-image: url(../images/top_contentsnagoya_logo.svg);
+	opacity: 0.15;
+}
+/* .slide_wrapper:first-child .slide { background-image: url(../images/bg_mainvisual.jpg); } */
+.slide_wrapper:first-child .slide h1 .title-slide { font-size:64px; }
+.slide_wrapper:first-child .title-slide-sub {  }
